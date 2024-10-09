@@ -521,6 +521,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-id="newtv怡伴健康" tvg-name="newtv怡伴健康" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV11.png" group-title="NewTV频道",怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 
+#广东/1个频道
+#EXTINF:-1 tvg-name="广东体育" tvg-id="广东体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="地方频道", 广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv
+
 #北京/9个频道
 #EXTINF:-1 tvg-id="BRTV新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方频道",BRTV新闻
 http://114.246.102.14:4000/rtp/239.3.1.159:8000
